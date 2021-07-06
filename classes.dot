@@ -1,0 +1,5 @@
+digraph "classes" {
+charset="utf-8"
+rankdir=BT
+"0" [label="{MainWindow|create_edge_window : Create_edge_window\lfunction_head_window : Function_head_window\lload_alg_wrapper : NoneType\lload_window : Load_window, NoneType\lparameter_list : list\lrepo : Repository\lresult_run : Result_run\lresult_run2 : Result_run_simple, NoneType\lrun_menu : Run_menu_window, NoneType\lsave_window : NoneType, Save_window\lsession_name : NoneType\lsignal\lsignal_pushButtonAdd\lsignal_pushButtonDelete\lstatistics_live_data : Statistics_live_data\lstatistics_menu : NoneType, Statistics_menu_window\lstatistics_view : NoneType, Statistics_view\lui : Ui_MainWindow\l|btn_run()\lchange_progress_bar(value)\lcreate_algorithm_wrapper(): Algorithm_wrapper\lget_algorithm_data()\lhide_progress_bar()\linitialization_database()\lnew_page()\lprint_two_result()\lresult_handle()\lrun_error_handle(error)\lsave()\lsave_as()\lsave_temporary_result()\lset_infinite_progress_bar(flag)\lshow_create_edge_window()\lshow_function_head_window()\lshow_load_window()\lshow_progress_bar()\lshow_run_menu_window()\lshow_statistics()\lshow_statistics_menu()\lstop_run()\l}", shape="record"];
+}
